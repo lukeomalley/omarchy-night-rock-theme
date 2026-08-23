@@ -17,6 +17,9 @@ the source entries.
 | `09-buffalo-trail-the-impending-storm.jpg` | *Buffalo Trail: The Impending Storm* (1869) | Albert Bierstadt | [National Gallery of Art](https://www.nga.gov/artworks/166427-buffalo-trail-impending-storm), Open Access/Public Domain |
 | `10-the-rocky-mountains-landers-peak.jpg` | *The Rocky Mountains, Lander's Peak* (1863) | Albert Bierstadt | [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/10154), Open Access/Public Domain |
 | `11-trout-lake-colorado.jpg` | *Trout Lake, Colorado* (1879) | Hamilton Hamilton | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trout_Lake,_Colorado_1879_-_Hamilton_Hamilton.jpg) / [Phoenix Art Museum](https://phxart.org/arts/trout-lake-colorado-lago-trout-colorado/), Public Domain |
+| `12-view-from-vaekero-near-christiania.jpg` | *View from Vaekero near Christiania* (1827) | Johan Christian Dahl | [National Gallery of Art](https://www.nga.gov/artworks/110104-view-vaekero-near-christiania), Open Access/Public Domain |
+| `13-a-reconnaissance.jpg` | *A Reconnaissance* (1902) | Frederic Remington | [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/752047), Open Access/Public Domain |
+| `14-moonlight-vernet.jpg` | *Moonlight* (1772) | Claude-Joseph Vernet | [National Gallery of Art](https://www.nga.gov/artworks/214332-moonlight), Open Access/Public Domain |
 
 The original artwork and source images are in the public domain. This file is
 included so downstream users retain useful title, creator, and source credits.
