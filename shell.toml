@@ -1,0 +1,37 @@
+# Night Rock keeps Omarchy surfaces visually flat. Accent colors remain
+# available for text, status, and selection fills, but borders are disabled.
+
+[controls]
+normal-border-width       = 0
+hover-cursor-border-width = 0
+focus-border-width        = 0
+selected-border-width     = 0
+
+[popups]
+border-width = 0
+
+[tooltip]
+border-width = 0
+
+[notifications]
+border-width = 0
+
+[launcher]
+border-width          = 0
+selected-border-width = 0
+
+[menu]
+border-width          = 0
+selected-border-width = 0
+
+[polkit]
+border-width = 0
+
+[lock]
+border-width        = 0
+border-active-width = 0
+border-error-width  = 0
+
+[image-picker]
+selected-border-width   = 0
+unselected-border-width = 0
