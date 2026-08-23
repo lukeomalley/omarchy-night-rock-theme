@@ -16,6 +16,7 @@ the source entries.
 | `08-mount-corcoran.jpg` | *Mount Corcoran* (ca. 1876–1877) | Albert Bierstadt | [National Gallery of Art](https://www.nga.gov/artworks/166428-mount-corcoran), Open Access/Public Domain |
 | `09-buffalo-trail-the-impending-storm.jpg` | *Buffalo Trail: The Impending Storm* (1869) | Albert Bierstadt | [National Gallery of Art](https://www.nga.gov/artworks/166427-buffalo-trail-impending-storm), Open Access/Public Domain |
 | `10-the-rocky-mountains-landers-peak.jpg` | *The Rocky Mountains, Lander's Peak* (1863) | Albert Bierstadt | [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/10154), Open Access/Public Domain |
+| `11-trout-lake-colorado.jpg` | *Trout Lake, Colorado* (1879) | Hamilton Hamilton | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trout_Lake,_Colorado_1879_-_Hamilton_Hamilton.jpg) / [Phoenix Art Museum](https://phxart.org/arts/trout-lake-colorado-lago-trout-colorado/), Public Domain |
 
 The original artwork and source images are in the public domain. This file is
 included so downstream users retain useful title, creator, and source credits.
