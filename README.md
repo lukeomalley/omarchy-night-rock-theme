@@ -17,6 +17,21 @@ with:
 omarchy theme set night-rock
 ```
 
+## Frosted desktop appearance
+
+The theme supplies translucent charcoal shell surfaces, soft white labels,
+warm selection accents, subtle outlines, and roomier panel spacing.
+
+For the matching desktop appearance, use the accompanying
+[Hyprland settings](https://github.com/lukeomalley/dotfiles/blob/feat/cross-platform-dotfiles/stow/omarchy/hypr/.config/hypr/looknfeel.lua):
+10px corners, compact gaps, soft window shadows, and shell-layer blur.
+In `~/.config/omarchy/shell.json`, set `bar.transparent` to `false` so the
+bar uses the theme's translucent background instead of being fully transparent.
+These desktop settings are separate from the theme install; custom menu and
+clipboard plugins are also provided by the dotfiles.
+
+After pulling theme updates, reapply with `omarchy theme set night-rock`.
+
 ## Source
 
 This installable repository is published from the canonical Night Rock project:
